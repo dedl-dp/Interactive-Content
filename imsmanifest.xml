@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5v9lF0ACh7o_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">نموذج الملف التفاعلي - مبادرة الموارد التعليمية المفتوحة</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="نموذج_الملف_التفاعلي_-_مبادرة_الموارد_التعليمية_المفتوحة_ORG">
+    <organization identifier="نموذج_الملف_التفاعلي_-_مبادرة_الموارد_التعليمية_المفتوحة_ORG">
+      <title>نموذج الملف التفاعلي - مبادرة الموارد التعليمية المفتوحة</title>
+      <item identifier="Math_-_Lesson_3_SCO" isvisible="true" identifierref="__5v9lF0ACh7o_course_id_RES">
+        <title>نموذج الملف التفاعلي - مبادرة الموارد التعليمية المفتوحة</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5v9lF0ACh7o_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6okUt4a39ho_P_74_0_1029_722.jpg" />
+      <file href="mobile/5btZ3is4i0y_M_4162_4162_P_521_0_7515_4513.png" />
+      <file href="mobile/61raMJpbRPu.png" />
+      <file href="mobile/5ywbUNQ1EVH_X.png" />
+      <file href="mobile/5aylINpXuXn.png" />
+      <file href="mobile/5aylINpXuXn_B20.png" />
+      <file href="mobile/5aylINpXuXn_X.png" />
+      <file href="mobile/5aylINpXuXn_X_B20.png" />
+      <file href="mobile/5v2XqYzQn15_M_622_622_B10.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape5s7Yp3IrZgn.png" />
+      <file href="mobile/Shape6donT1dRiYb.png" />
+      <file href="mobile/Shape6YeL9L8nrkq.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5ydLAZtqaRJ.js" />
+      <file href="html5/data/js/634dJIHxlo8.js" />
+      <file href="html5/data/js/65VgthtFH9F.js" />
+      <file href="html5/data/js/6casebdhXaQ.js" />
+      <file href="html5/data/js/6jps69u46Fn.js" />
+      <file href="html5/data/js/6LNsvx4nGb7.js" />
+      <file href="html5/data/js/6o8p445CEJ4.js" />
+      <file href="html5/data/js/6q5iKlP6gNB.js" />
+      <file href="html5/data/js/6TjlzarvElw.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
